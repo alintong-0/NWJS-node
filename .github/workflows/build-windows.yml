@@ -18,7 +18,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  PYTHON_VERSION: '2.7.6'
+  PYTHON_VERSION: '2.7'
   FLAKY_TESTS: keep_retrying
 
 permissions:
